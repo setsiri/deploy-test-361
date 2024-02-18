@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/deploy-test-361/static/css/main.f310ee76.css",
+    "main.js": "/deploy-test-361/static/js/main.9a19cf50.js",
+    "static/js/787.d4aba7ab.chunk.js": "/deploy-test-361/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/deploy-test-361/static/media/logo.4f132aa8c1d2bf3afbfc76808e32623e.svg",
+    "static/media/unknow.svg": "/deploy-test-361/static/media/unknow.26a9556e9c93764b820f7f801575f66a.svg",
+    "static/media/pin.svg": "/deploy-test-361/static/media/pin.df1ec3781de214a476bf8dee9138c0cb.svg",
+    "static/media/register.svg": "/deploy-test-361/static/media/register.8dc5cd6ba7612dcffd30e951099b2136.svg",
+    "index.html": "/deploy-test-361/index.html",
+    "static/media/explor.svg": "/deploy-test-361/static/media/explor.65407fd7eb450010ac3e8ad667621711.svg",
+    "static/media/info.svg": "/deploy-test-361/static/media/info.2aca73955c71625f379f760563b23af2.svg",
+    "static/media/heart.svg": "/deploy-test-361/static/media/heart.88c84dcdc6613eef29c96422da3f44aa.svg",
+    "static/media/liked.svg": "/deploy-test-361/static/media/liked.c5b02ecfa835f2ebd031f016de4a4eb9.svg",
+    "static/media/verify.svg": "/deploy-test-361/static/media/verify.8ea007ee1c1c3520bcd3d6456cf9ac8f.svg",
+    "static/media/X.svg": "/deploy-test-361/static/media/X.bdcba14d1e9f2cf10797d7813529d4e5.svg",
+    "static/media/noti.svg": "/deploy-test-361/static/media/noti.f48057c3950a0b531f8babc7b96166ac.svg",
+    "static/media/logout.svg": "/deploy-test-361/static/media/logout.04de21975ebc5b8ea8cc7518d34843e2.svg",
+    "static/media/mypost.svg": "/deploy-test-361/static/media/mypost.bbaca907ac5f520f49cf5f216e40c79a.svg",
+    "static/media/edit.svg": "/deploy-test-361/static/media/edit.75ad1e68c6e0ca81fe3f3e08a95af79a.svg",
+    "static/media/editbig.svg": "/deploy-test-361/static/media/editbig.f876bc5568331a0eeea1aea682d7a0e2.svg",
+    "static/media/home.svg": "/deploy-test-361/static/media/home.4efba4930e0a137cd774e9a5f07d56f3.svg",
+    "static/media/comment.svg": "/deploy-test-361/static/media/comment.7b6743faa987946acdc54503c0151614.svg",
+    "static/media/login.svg": "/deploy-test-361/static/media/login.aa34da6879bd9f1dba8b23e05795d26a.svg",
+    "static/media/mybookmark.svg": "/deploy-test-361/static/media/mybookmark.233f89798f8894a250d10885bb60f30e.svg",
+    "main.f310ee76.css.map": "/deploy-test-361/static/css/main.f310ee76.css.map",
+    "main.9a19cf50.js.map": "/deploy-test-361/static/js/main.9a19cf50.js.map",
+    "787.d4aba7ab.chunk.js.map": "/deploy-test-361/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f310ee76.css",
+    "static/js/main.9a19cf50.js"
+  ]
+}
